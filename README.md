@@ -3,6 +3,20 @@
 - 📌 Atualmente aprendendo Angular;
 - 🧑🏿‍💻 Procurando vaga de emprego para: análise de dados, font-end ou back-and.
 
+<h3> 
+  Graduando em Engenharia Mecânica pela Universidade Federal do Ceará (UFC)
+</h3>
+
+- Grupo de Pesquisa de Análise de Dados Biomedicos (BioData);
+  - Criação de um site para receber dados biomedicos, no qual foram aplicados conhecimentos de linguagens requeridas do front e back-end.
+  - Análise de imagens termográficas através do dispositivo raspabarry utilizando a linguagem arduino;
+  - Determinação de angulos de eixos biomedicos no ramo ortopédico utilizando python.
+- PET Engenharia Mecânica;
+  - Realização de projetos de carrinho seguidor de linha utilizando arduino;
+- Fórmula-E Siará;
+
+##
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Felipecordeiiro&show_icons=true&theme=radical"
