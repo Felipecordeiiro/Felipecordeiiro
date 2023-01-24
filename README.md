@@ -1,5 +1,8 @@
 ## Olá, eu sou o Felipe Cordeiro!
 
+- 📌 Atualmente aprendendo Angular;
+- 🧑🏿‍💻 Procurando vaga de emprego para: análise de dados, font-end ou back-and.
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Felipecordeiiro&show_icons=true&theme=radical"
