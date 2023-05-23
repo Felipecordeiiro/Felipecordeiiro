@@ -20,7 +20,7 @@
 <div align="center">  
   <div align="center">
     <a href="https://github.com/Felipecordeiiro/Felipecordeiiro"> </a>
-  <img  width="405" src="https://github-readme-stats-caio-sts.vercel.app/api?username=caio-sts&&show_icons=true&count_private=true&theme=radical"/>  <img width="340" src="https://github-readme-stats-caio-sts.vercel.app/api/top-langs/?username=caio-sts&layout=compact&theme=radical&show_icons=true&count_private=true"/>  
+  <img  width="405" src="https://github-readme-stats-Felipecordeiiro.vercel.app/api?username=Felipecordeiiro&&show_icons=true&count_private=true&theme=radical"/>  <img width="340" src="https://github-readme-stats-Felipecordeiiro.vercel.app/api/top-langs/?username=Felipecordeiiro&layout=compact&theme=radical&show_icons=true&count_private=true"/>  
       </div>
   <img width="49%" height="195px" src="https://github-readme-stats-Felipecordeiiro.vercel.app/api?username=Felipecordeiiro&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Cordeiro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecordeiiro&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
