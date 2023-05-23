@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=200&section=header"/>
+
 ## Olá, eu sou o Felipe Cordeiro!
 
 - 📌 Atualmente aprendendo Angular;
@@ -13,18 +15,10 @@
   - Determinação de angulos de eixos biomedicos no ramo ortopédico utilizando python.
 - PET Engenharia Mecânica;
   - Realização de projetos de carrinho seguidor de linha utilizando arduino;
-- Fórmula-E Siará;
+- Fórmula-E Student;
 
 ##
 
-<div align="center">  
-  <div align="center">
-    <a href="https://github.com/Felipecordeiiro/Felipecordeiiro"> </a>
-  <img  width="405" src="https://github-readme-stats-Felipecordeiiro.vercel.app/api?username=Felipecordeiiro&&show_icons=true&count_private=true&theme=radical"/>  <img width="340" src="https://github-readme-stats-Felipecordeiiro.vercel.app/api/top-langs/?username=Felipecordeiiro&layout=compact&theme=radical&show_icons=true&count_private=true"/>  
-      </div>
-  <img width="49%" height="195px" src="https://github-readme-stats-Felipecordeiiro.vercel.app/api?username=Felipecordeiiro&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Cordeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecordeiiro&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
 ### Principais habilidades: 
 
