@@ -15,7 +15,8 @@
   - Determinação de angulos de eixos biomedicos no ramo ortopédico utilizando python.
 - PET Engenharia Mecânica;
   - Realização de projetos de carrinho seguidor de linha utilizando arduino;
-- Fórmula-E Student;
+- Fórmula-E Student - Autonoums car;
+  - Gerente de visão computacional
 
 ##
 
