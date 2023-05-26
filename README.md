@@ -3,7 +3,7 @@
 ## Olá, eu sou o Felipe Cordeiro!
 
 - 📌 Atualmente aprendendo Angular;
-- 🧑🏿‍💻 Procurando vaga de emprego para: análise de dados, font-end ou back-and.
+- 🧑🏿‍💻 Procurando vaga de emprego para: análise de dados, visão computacional ou back-and.
 
 <h3> 
   Graduando em Engenharia Mecânica pela Universidade Federal do Ceará (UFC)
