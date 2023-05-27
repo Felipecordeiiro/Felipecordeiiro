@@ -1,11 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=250&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=200&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0FFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Felipe+Cordeiro!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC7A66&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Felipe+Cordeiro!+:%29)](https://git.io/typing-svg)
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Felipecordeiiro&show_icons=true&count_private=true&hide_border=true&title_color=F0FFFF&icon_color=F0FFFF&text_color=CC7A66&bg_color=0d1117" alt="Felipe Cordeiro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecordeiiro&layout=compact&hide_border=true&title_color=F0FFFF&text_color=F0FFFF&bg_color=CC7A66" />
+</div>
+
+
+## PS:
+
+- 🧑🏾‍💻 Searching for job in data science (ML and DL), processing image, dev. back-end.
 
 ## About me:
-
-- 📌 Atualmente aprendendo Angular;
-- 🧑🏿‍💻 Procurando vaga de emprego para: análise de dados, visão computacional ou back-and.
 
 <h3> 
   Graduando em Engenharia Mecânica pela Universidade Federal do Ceará (UFC)
@@ -23,7 +31,6 @@
   - Gerente de visão computacional
 
 ##
-
 
 ### Main Skills: 
 
