@@ -1,6 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=200&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=250&section=header"/>
 
-## Olá, eu sou o Felipe Cordeiro!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0FFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+Felipe+Cordeiro!+:%29)](https://git.io/typing-svg)
+
+## About me:
 
 - 📌 Atualmente aprendendo Angular;
 - 🧑🏿‍💻 Procurando vaga de emprego para: análise de dados, visão computacional ou back-and.
@@ -23,7 +25,7 @@
 ##
 
 
-### Principais habilidades: 
+### Main Skills: 
 
 <div>
   
@@ -35,7 +37,7 @@
           
 </div>
 
-### Estudando no momento:
+### Studying in moment:
 
 <div>
   
@@ -45,7 +47,7 @@
   
 </div>
 
-##
+## Follow me in my social network:
 
 <div>
   <a href="https://instagram.com/cordeiirofe_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
