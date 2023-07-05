@@ -11,7 +11,7 @@
 
 ## PS:
 
-- 🧑🏾‍💻 Searching for job in data science (ML and DL), processing image, dev. back-end.
+- 🧑🏾‍💻 Searching job in data science (ML or DL), processing image, dev. back-end.
 
 ## About me:
 
