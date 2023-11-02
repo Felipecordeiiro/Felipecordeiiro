@@ -22,7 +22,7 @@
 - Grupo de Análise de Dados Biomedicos (BioData);
   - Pesquisador
   - Criação de um site para receber dados biomedicos, no qual foram aplicados conhecimentos de linguagens requeridas do front e back-end.
-  - Análise de imagens termográficas através do dispositivo raspabarry utilizando a linguagem arduino;
+  - Elaboração de um dispositivo capaz de realizar leituras termográficas usando raspbarry e visão computacional;
   - Determinação de angulos de eixos biomedicos no ramo ortopédico utilizando python.
 - Programa de Ensino e Tutoria do curso de Engenharia Mecânica;
   - Coordenador de extensão
