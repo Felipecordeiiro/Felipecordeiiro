@@ -14,21 +14,24 @@
 - 🧑🏾‍💻 Searching job in data science, Machine or Deep Learning Developer, Processing Image or Backend Developer.
 
 ## About me:
+<h4> 
+  Undergraduate from at Federal Univesity of Ceará (UFC)
+</h4>
 
-<h3> 
-  Graduando em Engenharia Mecânica pela Universidade Federal do Ceará (UFC)
-</h3>
+### Actual Research
 
-- Grupo de Análise de Dados Biomedicos (BioData);
-  - Pesquisador
-  - Criação de um site para receber dados biomedicos, no qual foram aplicados conhecimentos de linguagens requeridas do front e back-end.
-  - Elaboração de um dispositivo capaz de realizar leituras termográficas usando raspbarry e visão computacional;
-  - Determinação de angulos de eixos biomedicos no ramo ortopédico utilizando python.
-- Programa de Ensino e Tutoria do curso de Engenharia Mecânica;
-  - Coordenador de extensão
-  - Realização de projetos de carrinho seguidor de linha utilizando arduino;
+- Biomedical Data Analytics - BioData;
+  - Research - ML and DL models, Digital Image Processing and Computer Vision
+  - Creation of the website integrate with database MySQL for Biomedical data receive.
+  - Elaboration of the device able to realyze termographics reading using Raspbarry and Computer Vision;
+  - Determination of the angles formed by bones and axes of calcaneo region, in medicine branch, using Python.
+
+### Other Experiences
 - Fórmula-E Student - Autonoums car;
-  - Gerente de visão computacional
+  - Computer Vision Manager
+- Education and Tutorial Program for the Mechanical Engineering course;
+  - Extension Coordinator
+  - Accomplishment tasks of line follower cart using the Arduino microcontroller;
 
 ##
 
@@ -48,7 +51,8 @@
 
 <div>
   
-  ![Angular.js](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+  ![Flask](https://img.shields.io/badge/-Angular.js-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
   ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r&labelColor=0D1117)&nbsp;
   
@@ -57,7 +61,6 @@
 ## Talk to me in my social network:
 
 <div>
-  <a href="https://instagram.com/cordeiirofe_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:imfelipe.cordeiro12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-cordeiro-51b878220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
