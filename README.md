@@ -39,8 +39,10 @@
 - Generative AI - LLMs and LVMs
 
 ### Portfolio
-![GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F699254279626831036%2F&psig=AOvVaw3dS1l8WSiy_Itq9IpD_n7K&ust=1716559858357000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNi66Pb5o4YDFQAAAAAdAAAAABAE)
-<a href="[https://felipecordeiiro.github.io/)]"></a>
+
+![GIF](pixel_mini_world.gif)
+
+[Look my portfolio](https://felipecordeiiro.github.io/)
 
 ### Programming Languagens: 
 
