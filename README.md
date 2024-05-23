@@ -15,25 +15,28 @@
 
 ## About me:
 <h4> 
-  Undergraduate from at Federal Univesity of Ceará (UFC)
+  Computer engineering undergraduate from at Federal Univesity of Ceará (UFC)
 </h4>
 
 ### Actual Research
 
 - Biomedical Data Analytics - BioData;
   - Research - ML and DL models, Digital Image Processing and Computer Vision
-  - Creation of the website integrate with database MySQL for Biomedical data receive.
+  - Creation of the website for data annotation and inference ML models integrate with database intended for Biomedical Data solutions.
   - Elaboration of the device able to realyze termographics reading using Raspbarry and Computer Vision;
-  - Determination of the angles formed by bones and axes of calcaneo region, in medicine branch, using Python.
+  - Determination of the angles formed by bones and axes of calcaneo region using Python.
 
 ### Other Experiences
 - Fórmula-E Student - Autonoums car;
   - Computer Vision Manager
-- Education and Tutorial Program for the Mechanical Engineering course;
+- Education and Tutorial Program for the Mechanical Engineering course - PET;
   - Extension Coordinator
   - Accomplishment tasks of line follower cart using the Arduino microcontroller;
 
-##
+### Main roles
+- Processing Digital Images - Convolutional Neural Networks (segmentation, classification, object detection)
+- Natural Language Processing - RNNs, Transformers
+- Generative AI - LLMs and LVMs
 
 ### Main Skills: 
 
